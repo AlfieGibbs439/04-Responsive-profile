@@ -1,0 +1,99 @@
+
+
+body {
+  background-color: rgb(245, 245, 245);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  color: #0D2E53 ;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 30px;
+  color: #0D2E53;
+}
+
+h2 {
+  font-size: 25px;
+  line-height: 10px;
+  color: #0D2E53;
+
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+
+  }
+
+.btn-link:hover {
+  background-color: black;
+}
+
+p {
+  line-height: 20px;
+  margin-bottom: 39px;
+}
+
+img {
+  border-radius: 50%;
+  width: 140px;
+}
+
+.follow-title {
+  color : #E7BB41;
+  font-weight: 700;
+  line-height: 40px;
+  font-size
+}
+
+
+.container {
+
+
+}
+
+.card {
+  background-color: rgb(254, 254, 254);
+  margin: 20px auto;
+  padding: 25px 20px 25px 20px;
+  text-align: center;
+  width: 600px;
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+
+}
+
+.btn-link {
+  background-color: #D3D0CB;
+  padding: 15px;
+  border-radius: 7px;
+  color: white;
+  font-size: 15;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0px;
+  font-size: 35px;
+  margin: 10px 10px 30px 10px;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 0px 16px;
+}
+
+.my-icon {
+  color: blue;
+}
+
+.my-icon:hover {
+  color: black;
+}
+
+
